@@ -47,17 +47,12 @@ class PageMain extends StatelessWidget {
                     ],
                   ),
                 ),
-                Material(
-                  color: Colors.white,
-                  child: InkWell(
-                    onTap: () {},
-                    child: SizedBox(
-                      height: MediaQuery.of(context).size.height * 0.07,
-                      width: MediaQuery.of(context).size.width,
-                      child: const Center(
-                          child: Text('Пройти курс "Успешное обучение"')),
-                    ),
-                  ),
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.07,
+                  width: MediaQuery.of(context).size.width,
+                  child: ElevatedButton(
+                      onPressed: () {},
+                      child: const Text('Пройти курс "Успешное обучение"')),
                 ),
               ]),
         ),

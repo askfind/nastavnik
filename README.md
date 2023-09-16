@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# History
+
+ > Project: Мобильное приложение "Наставник"
+ >
+ > Create date: 01.05.2023
+ > Edit date:   16.09.2023
+ >
+ > Version:		1.00
